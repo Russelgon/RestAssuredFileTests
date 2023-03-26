@@ -13,7 +13,7 @@ This project is showing some of the base tests for file.io
 | Enviroment | IntelliJ IDEA |
 | Build  | 2022.1.4 |
 | Tool  | RestAssured |
-| Test date | 10.01.2023 |
+| Test date | 26.03.2023 |
 | Tester | Alexandr |
 
 | Type  | ID | | Result | Comments |
