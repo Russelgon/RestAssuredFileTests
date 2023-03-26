@@ -190,3 +190,6 @@ We use maven to build and manage project.
  testNg instead of JUnit to optimazie our testes with full control over the test cases and the execution of the test cases.
 
  ---
+### ⚙️ Tests ⚙️ 
+
+![image](https://user-images.githubusercontent.com/110033388/227782278-bfe72949-76cd-45f9-97c0-e781b24aa60a.png)
