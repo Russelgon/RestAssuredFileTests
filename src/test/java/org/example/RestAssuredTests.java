@@ -64,10 +64,11 @@ public class RestAssuredTests {
         // Succes of Authorization with getting profile information
         try {
             System.out.println(given()
-                    .auth().oauth2(fData.getToken())
+                        .auth().oauth2(fData.getToken())
                     .when()
-                    .get("/me")
-                    .then().log().all().extract().jsonPath());
+                        .get("/me")
+                    .then()
+                        .log().all().extract().jsonPath());
         } catch (Exception e) {
             throw new RuntimeException(e);
         }
