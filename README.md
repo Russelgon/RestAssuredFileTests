@@ -193,3 +193,4 @@ We use maven to build and manage project.
 ### ⚙️ Tests ⚙️ 
 
 ![image](https://user-images.githubusercontent.com/110033388/227782278-bfe72949-76cd-45f9-97c0-e781b24aa60a.png)
++ We get the __fileSizeBorder__ method failing, cuz here presented a bug. Information on the site file.io present that u can upload 2GB files, but actuall MAX file SIZE for uplouding is  1.86GB
